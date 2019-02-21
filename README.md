@@ -20,7 +20,10 @@
 ## 분할 정복
 
 [슬라이드](divide-and-conquer/divide-and-conquer.pdf)
+
 [Merge Sort Implementation in C++](divide-and-conquer/merge-sort.cpp)
+
+[Exponentiation by squaring Implementation in C++](divide-and-conquer/exponentiation.cpp)
 
 ### 분할 정복 연습문제
 
