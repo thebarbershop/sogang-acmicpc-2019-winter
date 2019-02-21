@@ -6,13 +6,26 @@
 
 [슬라이드](mst/mst.pdf)
 
-### 연습문제
+### 최소 스패닝 트리 연습문제
 
 - [1922 네트워크 연결](https://www.acmicpc.net/problem/1922)
-   - [크루스칼 알고리즘으로 풀이](mst/1922.cpp)
-   - [프림 알고리즘으로 풀이](mst/1922-prim.cpp)
+  - [크루스칼 알고리즘으로 풀이](mst/1922.cpp)
+  - [프림 알고리즘으로 풀이](mst/1922-prim.cpp)
 - [1197 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)
 - [6497 전력난](https://www.acmicpc.net/problem/6497)
 - [1647 도시 분할 계획](https://www.acmicpc.net/problem/1647)
 - [4343 Arctic Network](https://www.acmicpc.net/problem/4343)
 - [9373 복도 뚫기](https://www.acmicpc.net/problem/9373)
+
+## 분할 정복
+
+[슬라이드](divide-and-conquer/divide-and-conquer.pdf)
+[Merge Sort Implementation in C++](divide-and-conquer/merge-sort.cpp)
+
+### 분할 정복 연습문제
+
+- [10827 a^b](https://www.acmicpc.net/problem/10827)
+- [10830 행렬 제곱](https://www.acmicpc.net/problem/10830)
+- [1780 종이의 개수](https://www.acmicpc.net/problem/1780)
+- [1725 히스토그램](https://www.acmicpc.net/problem/1725)
+- [2339 석판 자르기](https://www.acmicpc.net/problem/2339)
