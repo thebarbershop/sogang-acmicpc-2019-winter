@@ -40,6 +40,7 @@
 ### 위상 정렬 연습문제
 
 - [2252 줄세우기](https://www.acmicpc.net/problem/2252)
+  - [소스 코드](topological-sort\2252.cpp)
 - [1766 문제집](https://www.acmicpc.net/problem/1766)
 - [3665 최종 순위](https://www.acmicpc.net/problem/3665)
 - [1948 임계경로](https://www.acmicpc.net/problem/1948)
