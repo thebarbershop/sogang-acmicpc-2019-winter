@@ -32,3 +32,15 @@
 - [1780 종이의 개수](https://www.acmicpc.net/problem/1780)
 - [1725 히스토그램](https://www.acmicpc.net/problem/1725)
 - [2339 석판 자르기](https://www.acmicpc.net/problem/2339)
+
+## 위상 정렬
+
+[슬라이드](topological-sort/topological-sort.pdf)
+
+### 위상 정렬 연습문제
+
+- [3665 최종 순위](https://www.acmicpc.net/problem/3665)
+- [2252 줄세우기](https://www.acmicpc.net/problem/2252)
+- [3665 최종 순위](https://www.acmicpc.net/problem/3665)
+- [1948 임계경로](https://www.acmicpc.net/problem/1948)
+- [1005 ACM Craft](https://www.acmicpc.net/problem/1005)
